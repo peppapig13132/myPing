@@ -1,0 +1,29 @@
+{
+  "name": "my-ping",
+  "version": "1.0.0",
+  "description": "Designed for developers, network engineers, or anyone interested in monitoring network latency in a fun and interactive way.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peppapig13132/myPing.git"
+  },
+  "keywords": [
+    "ping",
+    "network",
+    "latency",
+    "terminal"
+  ],
+  "author": "peppapig13132",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peppapig13132/myPing/issues"
+  },
+  "homepage": "https://github.com/peppapig13132/myPing#readme",
+  "dependencies": {
+    "ping": "^0.4.4"
+  }
+}
